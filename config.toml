@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ivana & Jonáš"
+theme = "dimension"
+
+[params]
+  description= '<b>14. 4. 2018</b>'
+  logo='fa-diamond'
