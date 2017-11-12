@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ivana & Jonáš"
 theme = "dimension"
+publishDir = "docs"
 
 [params]
   description= '<b>14. 4. 2018</b>'
