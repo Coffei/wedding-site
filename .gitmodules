@@ -1,6 +1,0 @@
-[submodule "themes/dimension"]
-	path = themes/dimension
-	url = https://github.com/sethmacleod/dimension.git
-[submodule "public"]
-	path = public
-	url = https://github.com/Coffei/Coffei.github.io.git

@@ -19,7 +19,7 @@ kdož obdrželi pozvánku ke *svatebnímu stolu*, jsou zváni doprovodit nás do
 Loděnice, kde se společně oddáme svatebnímu obědu.
 
 Ti, kdož obdrželi pozvánku k *večernímu rautu*, jsou zváni na [totéž místo](#map_kocharowsky) v **18
-hodin**, na dobré jídlo i trochu zábavy (taneční boty s sebou).
+hodin**, na dobré jídlo i trochu zábavy.
 
 Doprava na místo *vlastními* autovozy, pokud by někdo nemohl/nechtěl brát auto
 [ozvěte se nám](#contact) a na odvozu se domluvíme. Svoz aut z místa oslavy bude zajištěn (**DODAT DETAILY**).
@@ -28,6 +28,5 @@ Oslava není časově omezená, odvoz domů bude zajištěn.
 
 ### Ubytování na místě
 Na zámečku bude k dispozici několik míst k ubytování. Kapacita bohužel
-*nedostačuje pro všechny* a tak bude postel přidělena především těm u kterých to
-má smysl - především *rodinám s malými dětmi*. Pokud byste měli o ubytování
-zájem [ozvěte se nám](#contact).
+*nedostačuje pro všechny* a tak bude postel přidělena nejprve rodinám s malými
+dětmi. Pokud byste měli o ubytování zájem [ozvěte se nám](#contact).
