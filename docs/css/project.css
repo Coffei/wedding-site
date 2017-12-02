@@ -1,0 +1,15 @@
+#header nav ul li {
+    width: 135px;
+}
+
+#header nav ul li a {
+    padding: 0;
+}
+
+a.icon {
+    border-bottom: none;
+}
+
+article#contact table thead {
+    display: none;
+}

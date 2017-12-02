@@ -12,21 +12,35 @@
     
     
     <item>
-      <title>Základní informace</title>
+      <title>Cože?</title>
       <link>http://example.org/info/</link>
       <pubDate>Sun, 12 Nov 2017 11:33:57 +0000</pubDate>
       
       <guid>http://example.org/info/</guid>
-      <description>Hello this is new info page.</description>
+      <description>Ano, je to tak! Ivana Králová, bytem Pekařská 118 Opava, a Jonáš Trantina, bytem Masarykova tř. 16 Opava, vstoupí do svazku manželského.
+Kdy se to stalo? Poprvé jsme se spatřili na Mendelově Gymnáziu 3.9.2007, v první školní den. Střední utekla jako voda a do čtvrťáku už jsme šli spolu ruku v ruce. Na vysokou školu do Brna jsme už mířili jako partneři, připraveni podstoupit první z nikdy nekončících testů vztahu - společné bydlení.</description>
     </item>
     
     <item>
-      <title>Instrukce</title>
+      <title>Co teď?</title>
+      <link>http://example.org/whattodo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/whattodo/</guid>
+      <description>Pokud jste dostali svatební oznámení, pozvánku ke svatebnímu stolu, či pozvánku k večernímu rautu ozvěte se nám prosím, abychom věděli zda přijdete.
+Pokud jste nedostali pozvánku na oslavu, nebo dokonce vůbec nic a chtěli byste přijít, ozvěte se nám taky, možná jsme na vás zapomněli a snad se pro vás najde místo.</description>
+    </item>
+    
+    <item>
+      <title>Instrukce &lt;br&gt;kdy a kde být</title>
       <link>http://example.org/where/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/where/</guid>
-      <description>Hello this is WHERE page</description>
+      <description>Obřad Obřad se bude konat 14.4.2018 v Kulturním domě Petra Bezruče v Opavě ve 12 hodin.
+Všichni, kteří dostali svatební oznámení jsou zvání! Na obřad prosím přijďte ve společenském oděvu.
+Oslava Oslava se bude konat ihned po obřadu v zámečku Kocharowsky v Loděnici. Ti, kdož obdrželi pozvánku ke svatebnímu stolu, jsou zváni doprovodit nás do Loděnice, kde se společně oddáme svatebnímu obědu.
+Ti, kdož obdrželi pozvánku k večernímu rautu, jsou zváni na totéž místo v 18 hodin, na dobré jídlo i trochu zábavy.</description>
     </item>
     
     <item>
@@ -35,7 +49,8 @@
       <pubDate>Sun, 12 Nov 2017 11:00:00 +0000</pubDate>
       
       <guid>http://example.org/gifts/</guid>
-      <description>Hello this is GIFTS page.</description>
+      <description>V roce 2019 plánujeme svatební cestu do jihovýchodní Asie, tudíž bychom uvítali finanční dary na podporu tohoto jedinečného zážitku. V seznamu níže nám můžete namíchat koktejl cestovních zážitků. Budeme rádi, když nám tento výběr napíšete do Vašeho přání.
+ Letenka pro 1 osobu jeden směr Jídlo v lepší restauraci Drink na pláži Výlet lodí Masáž Ubytování na jednu noc  Vzhledem k tomu, že máme bydlení plně zařízeno, dávejte nám prosím spotřebiče a jiné hmotné dary jen po domluvě.</description>
     </item>
     
     <item>
@@ -44,7 +59,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/program/</guid>
-      <description>Hello this is PROGRAM page.</description>
+      <description>&amp;nbsp; &amp;nbsp;     11:30 Sraz u Kulturního domu Petra Bezruče   12:00 - 13:00 Svatební obřad + společná fotografie   13:00 - 13:30 Společný přesun do Zámečku Kocharowsky   14:00 Svatební oběd   14:30 - 16:00 Focení novomanželů / Volná zábava   16:00 - 17:30 Řízená zábava   17:30 První novomanželský tanec   18:00 Večeře formou rautu   18:30 - 22:00 Kapela Desperados   22:00 - ?</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description> Jonáš Trantina    &amp;nbsp; &amp;nbsp;     Email Trantina.Jonas@gmail.com   Telefon 606 549 971   Další &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;    Ivana Králová    &amp;nbsp; &amp;nbsp;     Email ivana.kralova.15@gmail.com   Telefon 606 793 696   Další     Korespondenční adresa Jonáš Trantina / Ivana Králová K Babě 21 Brno 621 00  </description>
+    </item>
+    
+    <item>
+      <title>Kulturní dům Petra Bezruče</title>
+      <link>http://example.org/map_bezruc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/map_bezruc/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Zámeček Kocharowsky</title>
+      <link>http://example.org/map_kocharowsky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/map_kocharowsky/</guid>
+      <description> </description>
     </item>
     
   </channel>

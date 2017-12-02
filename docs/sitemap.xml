@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>http://example.org//#whattodo</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org//#where</loc>
   </url>
   
@@ -18,6 +22,10 @@
   
   <url>
     <loc>http://example.org//#program</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org//#contact</loc>
   </url>
   
   <url>
@@ -32,8 +40,16 @@
   </url>
   
   <url>
+    <loc>http://example.org//#map_bezruc</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org//#</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org//#map_kocharowsky</loc>
   </url>
   
 </urlset>
