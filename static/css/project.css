@@ -22,3 +22,7 @@ a.img {
 a.img.img-left {
 	float: left;
 }
+
+div.clear {
+	clear: both;
+}
