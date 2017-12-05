@@ -29,11 +29,14 @@ instrukce jak ho otevřít.
 
 ### Jak se to stalo?
 Sejf, jež k otevření požadoval číselný kód, a pár papírků bylo vše, co Iva v
-onen osudný den dostala. **INSERT IMAGES** První krokem bylo složení celkem 9
+onen osudný den dostala. 
+<a href="images/puzzle.jpg" class="img"><img src="images/puzzle.jpg" height=250/></a>
+První krokem bylo složení celkem 9
 čtvercových papírků do velkého QR kódu. Úkol to nebyl jednoduchý, neboť
 manipulace s malými papírky byla obtížná a i když našla správné uspořádání
 jednotlivých částí, musela je perfektně poskládat, aby přesně lícovali, jinak
 je čtečka v mobilu nebyla schopna přečíst.
+<a href="/images/app.jpg" class="img"><img src="/images/app.jpg" height="250"/></a>
 
 Po menším souboji s QR kódem se ji ale podařilo kód v mobilu načíst a dostala
 se k mobilní aplikaci, která zajišťovala hlavní náplň dne. Hlavním cílem bylo
@@ -51,3 +54,5 @@ révou. Na místě už jen stačilo najít kód a otevřít sejf, který nám ce
 připomínal, že tohle není jen obyčejný nedělní výlet. V sejfu se už skrýval, v
 několika metrech bublinkové fólie, zásnubní prsten, a po nefalšovaném
 překvapení řekla ono kýžené *Ano*.
+<a href="images/slunecna.jpg" class="img img-left"><img src="images/slunecna.jpg" height=250></a>
+<a href="images/together.jpg" class="img"><img src="images/together.jpg" height=250></a>
