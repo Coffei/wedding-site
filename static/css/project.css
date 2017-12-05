@@ -1,5 +1,5 @@
 #header nav ul li {
-    width: 135px;
+    width: 200px;
 }
 
 #header nav ul li a {
@@ -12,4 +12,9 @@ a.icon {
 
 article#contact table thead {
     display: none;
+}
+
+a.img {
+	float: right;
+	border-bottom: none;
 }
