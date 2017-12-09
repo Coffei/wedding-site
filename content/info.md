@@ -39,8 +39,8 @@ manipulace s malými papírky byla obtížná a i když našla správné uspoř�
 jednotlivých částí, musela je perfektně poskládat, aby přesně lícovali, jinak
 je čtečka v mobilu nebyla schopna přečíst.
 <a href="/images/puzzle.jpg" class="img"><img src="/images/puzzle_small.jpg" height="250"/></a>
-Věděl jsem, že je možné dílky složit, ale měl jsem trochu obavy, že zvítězí
-býčí povaha a že se na to vykašle. Zvědavost byla ale zvědavější.
+Věděl jsem, že je možné dílky složit, ale měl jsem trochu obavy, že zvítězí její
+býčí povaha a že se na to vykašle. Zvědavost byla ale silnější.
 
 Když nakonec QR kód mobilem načetla, dostala se k mobilní aplikaci, která
 zajišťovala hlavní náplň dne. Hlavním cílem bylo najít místo neznámo kde.
@@ -97,7 +97,7 @@ nezastavit a neupřesnit si směr, či zda se alespoň přibližuju, ale bylo by
 zbytečné, Pavlovice totiž byly přesně to místo, kam jsme jeli. Vyskočilo na mě
 **GRATULUJI, kód najdeš na blízké rozhledně**.  Kód jsem dle instrukcí zadala do
 trezoru. V trezoru bylo cosi obalené ve velkém kusu bublinkové fólie.  To cosi
-byl prsten a já řekla **Ano**.
+byl prsten a já řekla *Ano*.
 <div class="clear"></div>
 <a href="images/slunecna.jpg" class="img img-left"><img src="images/slunecna_small.jpg" height=250></a>
 <a href="images/together.jpg" class="img"><img src="images/together_small.jpg" height=250></a>

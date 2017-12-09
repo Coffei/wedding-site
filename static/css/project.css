@@ -21,10 +21,16 @@ a.img {
 	float: right;
 	clear: right;
 	border-bottom: none;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 0;
 }
 
 a.img.img-left {
 	float: left;
+	margin-left: 0;
+	margin-right: 5px;
 }
 
 div.clear {
