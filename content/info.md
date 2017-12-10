@@ -32,13 +32,13 @@ instrukce jak ho otevřít.
 
 Sejf, jež k otevření požadoval číselný kód, a pár papírků bylo vše, co Iva v
 onen osudný den dostala. 
-<a href="images/safe.jpg" class="img"><img src="images/safe_small.jpg" height=250/></a>
+<a href="images/safe.jpg" class="img"><img src="images/safe.jpg" height=250/></a>
 První krokem bylo složení celkem 9
 čtvercových papírků do velkého QR kódu. Úkol to nebyl jednoduchý, neboť
 manipulace s malými papírky byla obtížná a i když našla správné uspořádání
 jednotlivých částí, musela je perfektně poskládat, aby přesně lícovali, jinak
 je čtečka v mobilu nebyla schopna přečíst.
-<a href="/images/puzzle.jpg" class="img"><img src="/images/puzzle_small.jpg" height="250"/></a>
+<a href="/images/puzzle.jpg" class="img"><img src="/images/puzzle.jpg" height="250"/></a>
 Věděl jsem, že je možné dílky složit, ale měl jsem trochu obavy, že zvítězí její
 býčí povaha a že se na to vykašle. Zvědavost byla ale silnější.
 
@@ -63,7 +63,7 @@ Ráno, toho osudného dne, jsem věděla, že pojedeme na výlet. Věděla jsem 
 kam, měla jsem naplánovanou cestu směrem na Kuřim a okolí (v plánu byly
 samozřejmě kešky) a měli jsme tam jet vláčkem.
 
-<a href="images/app.jpg" class="img"><img src="images/app_small.jpg" height=250></a>
+<a href="images/app.jpg" class="img"><img src="images/app.jpg" height=250></a>
 Mezitím, co já ráno chystala malou svačinku, Jonáš šel ještě *něco* vyřídit.
 Když se vrátil držel v ruce malou divnou černou skříňku. Byl to trezor. Podal
 mi ho a nechtěl mi k němu vůbec nic říct. Má zvědavost, co se v trezoru ukrývá,
@@ -99,5 +99,5 @@ zbytečné, Pavlovice totiž byly přesně to místo, kam jsme jeli. Vyskočilo 
 trezoru. V trezoru bylo cosi obalené ve velkém kusu bublinkové fólie.  To cosi
 byl prsten a já řekla *Ano*.
 <div class="clear"></div>
-<a href="images/slunecna.jpg" class="img img-left"><img src="images/slunecna_small.jpg" height=250></a>
-<a href="images/together.jpg" class="img"><img src="images/together_small.jpg" height=250></a>
+<a href="images/slunecna.jpg" class="img img-left"><img src="images/slunecna.jpg" height=250></a>
+<a href="images/together.jpg" class="img"><img src="images/together.jpg" height=250></a>
