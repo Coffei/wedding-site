@@ -4,6 +4,7 @@ hide: true
 ---
 <a href="images/bezruc.jpg" class="img img-center"><img src="images/bezruc.jpg" width=570></a>
 <iframe
+  class="map"
   width="570"
   height="450"
   frameborder="0" style="border:0"
