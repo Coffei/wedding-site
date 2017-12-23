@@ -33,6 +33,12 @@ a.img.img-left {
 	margin-right: 5px;
 }
 
+a.img.img-center {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 div.clear {
 	clear: both;
 }

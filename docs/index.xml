@@ -49,8 +49,9 @@ Ti, kdož obdrželi pozvánku k večernímu rautu, jsou zváni na totéž místo
       <pubDate>Sun, 12 Nov 2017 11:00:00 +0000</pubDate>
       
       <guid>http://example.org/gifts/</guid>
-      <description>V roce 2019 plánujeme svatební cestu do jihovýchodní Asie, tudíž bychom uvítali finanční dary na podporu tohoto jedinečného zážitku. V seznamu níže nám můžete namíchat koktejl cestovních zážitků. Budeme rádi, když nám tento výběr napíšete do Vašeho přání.
- Letenka pro 1 osobu jeden směr Jídlo v lepší restauraci Drink na pláži Výlet lodí Masáž Ubytování na jednu noc  Vzhledem k tomu, že máme bydlení plně zařízeno, dávejte nám prosím spotřebiče a jiné hmotné dary jen po domluvě.</description>
+      <description>V roce 2019 plánujeme svatební cestu do jihovýchodní Asie, tudíž bychom uvítali finanční dary na podporu tohoto jedinečného zážitku. Budeme rádi, když nám tento sen pomůžete splnit.
+Vzhledem k tomu, že máme bydlení plně zařízeno, dávejte nám prosím spotřebiče a jiné hmotné dary jen po domluvě.
+Rovněž Vás prosíme o šetření přírodních zdrojů - nekupujte prosím nadbytečně květiny. Spokojíme se s osobním přáním.</description>
     </item>
     
     <item>
@@ -59,7 +60,7 @@ Ti, kdož obdrželi pozvánku k večernímu rautu, jsou zváni na totéž místo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/program/</guid>
-      <description>&amp;nbsp; &amp;nbsp;     11:30 Sraz u Kulturního domu Petra Bezruče   12:00 - 13:00 Svatební obřad + společná fotografie   13:00 - 13:30 Společný přesun do Zámečku Kocharowsky   14:00 Svatební oběd   14:30 - 16:00 Focení novomanželů / Volná zábava   16:00 - 17:30 Řízená zábava   17:30 První novomanželský tanec   18:00 Večeře formou rautu   18:30 - 22:00 Kapela Desperados   22:00 - ?</description>
+      <description>&amp;nbsp; &amp;nbsp;     11:40 Sraz u Kulturního domu Petra Bezruče   12:00 - 13:00 Svatební obřad + společná fotografie   13:00 - 13:30 Společný přesun do Zámečku Kocharowsky   14:00 Svatební oběd   14:30 - 16:00 Focení novomanželů / Volná zábava   16:00 - 17:30 Řízená zábava   17:30 První novomanželský tanec   18:00 Večeře formou rautu   18:30 - 22:00 Kapela Desperados   22:00 - ?</description>
     </item>
     
     <item>
@@ -77,7 +78,7 @@ Ti, kdož obdrželi pozvánku k večernímu rautu, jsou zváni na totéž místo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/map_bezruc/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -86,7 +87,7 @@ Ti, kdož obdrželi pozvánku k večernímu rautu, jsou zváni na totéž místo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/map_kocharowsky/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
   </channel>
