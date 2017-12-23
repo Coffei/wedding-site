@@ -39,6 +39,14 @@ a.img.img-center {
 	margin-right: auto;
 }
 
+a.img img {
+	max-width: 100%
+}
+
 div.clear {
 	clear: both;
+}
+
+iframe.map {
+	max-width: 100%;
 }
