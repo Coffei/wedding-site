@@ -2,7 +2,7 @@
 title: "Kulturní dům Petra Bezruče"
 hide: true
 ---
-
+<a href="images/bezruc.jpg" class="img img-center"><img src="images/bezruc.jpg" width=570></a>
 <iframe
   width="570"
   height="450"

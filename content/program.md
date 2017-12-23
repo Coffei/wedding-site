@@ -7,7 +7,7 @@ weight: 40
 
 &nbsp; | &nbsp;
 :-----:|-------
-**11:30** | Sraz u Kulturního domu Petra Bezruče
+**11:40** | Sraz u Kulturního domu Petra Bezruče
 **12:00 - 13:00** | Svatební obřad + společná fotografie
 **13:00 - 13:30** | Společný přesun do Zámečku Kocharowsky
 **14:00** | Svatební oběd

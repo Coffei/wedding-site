@@ -2,7 +2,7 @@
 title: "Zámeček Kocharowsky"
 hide: true
 ---
-
+<a href="images/kocha.jpg" class="img img-center"><img src="images/kocha.jpg" width=570></a>
 <iframe
   width="570"
   height="450"

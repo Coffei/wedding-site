@@ -22,7 +22,7 @@ Ti, kdož obdrželi pozvánku k *večernímu rautu*, jsou zváni na [totéž mí
 hodin**, na dobré jídlo i trochu zábavy.
 
 Doprava na místo *vlastními* autovozy, pokud by někdo nemohl/nechtěl brát auto
-[ozvěte se nám](#contact) a na odvozu se domluvíme. Svoz aut z místa oslavy bude zajištěn (**DODAT DETAILY**).
+[ozvěte se nám](#contact) a na odvozu se domluvíme. Po obědě bude možné svézt vaše auto domů.
 
 Oslava není časově omezená, odvoz domů bude zajištěn.
 
